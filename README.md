@@ -1,0 +1,2 @@
+# BBB_penetrating_peptide_ID_using_machine_learning
+Classify specific BBB-penetrating peptides using CNN machine learning
